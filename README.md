@@ -1,2 +1,2 @@
-# Concentraci-n-Herramientas
+# Concentración Herramientas
  Concurrent Computing, Parallel Computing, Distributed Computing
